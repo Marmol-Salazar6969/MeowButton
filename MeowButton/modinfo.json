@@ -1,0 +1,10 @@
+{
+  "id": "MeowButton",
+  "name": "Meow Button",
+  "version": "1.0",
+  "authors": "BensoneWhite",
+  "description": "Meow every time that you want!",
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": false
+}
